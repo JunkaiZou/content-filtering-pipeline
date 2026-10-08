@@ -1,0 +1,11 @@
+.DS_Store
+.Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+.idea/
+.vscode/
+*.log
